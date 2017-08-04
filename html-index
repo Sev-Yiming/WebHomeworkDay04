@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>SEV</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="CSS/style.css">
+  </head>
+
+  <body>
+    <header>
+<!--       <div id="header">
+      SEV
+      </div> -->
+      <nav>
+        <ul>
+          <li><a href="#">ABOUT</a></li>
+          <li><a href="#">WORK</a></li>
+          <li><a href="#">CONTACT</a></li>
+        </ul>
+      </nav>
+    </header>
+    
+    <!-- This is the browe of the gallery -->
+    <div>
+      <img id="image-gallery" src="">
+    </div>
+
+    <!-- Tihs the floating images -->
+    <div>
+      <img id="floatbanner" src="image/WechatIMG9.jpg" >
+
+    </div>
+    
+    <!-- This is the "work" area -->
+
+    <div class="left-column">
+      <div id="left-column-01">
+        <div>
+          <img id="left-column-01-img" src="image/flover01.jpg">
+          <p id="left-column-01-p">Flover is a virtual brand whitch offers services including jewellry designing, wedding dress, ect. </p>
+        </div>
+
+
+        <div id="left-column-01-text" >
+          <p>
+            
+          </p>
+        </div>
+      </div>
+      <div id="left-column-02">
+        <div>
+          <img id="left-column-02-img" src="image/left-column-02-img.jpg">
+        </div>
+        <div id="left-column-02-text">
+          <p>
+            
+          </p>
+        </div>
+        
+      </div>
+
+    </div>
+    <div class="right-column">
+      <div id="right-column-01">
+        <div id="right-column-01-img" >
+          <img src="image/right-column-01-img.jpg">
+        </div>
+        <div id="right-column-01-text" >
+          <p>
+            
+          </p>
+        </div>
+      </div>
+      <div id="right-column-02">
+        <div id="right-column-02-img" >
+          <img src="image/right-column-02-img.jpg">
+        </div>
+        <div id="right-column-02-text">
+          <p>
+            
+          </p>
+        </div>
+        
+      </div>
+
+    </div>
+
+    <!-- This is my footer -->
+    <footer>
+      <div id="footer-me">
+        <p>
+          
+        </p>
+        <img src="" id="img-footer">
+      </div>
+    </footer>
+
+  </body>
+</html>
