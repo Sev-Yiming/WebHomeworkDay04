@@ -1,0 +1,110 @@
+@import url(https://fonts.googleapis.com/css?family=Audiowide|Orbitron|Poppins|Quicksand|Syncopate:400,700);
+@import url(https://fonts.googleapis.com/css?family=Audiowide|Orbitron|Poppins|Quicksand|Syncopate:400,700|Ubuntu);
+body{
+	width: 100%;
+	margin:5em;
+	font-family: 'Ubuntu', sans-serif;
+	position: absolute;
+	font-size: 1em;
+	background-image: url(image/background04.jpg);
+	background-color: 
+	background-size:cover;
+	-moz-background-size:cover;
+	-webkit-background-size:cover
+
+}
+
+#header{
+    font-family: 'Orbitron', sans-serif;
+    color: white;
+    font-size: 3.5em;
+    text-align: center;
+}
+nav{
+  position: relative;
+}
+nav ul{
+	list-style: none;
+	text-align: right;
+	padding-right: 18vw;
+    padding-top: 25px;
+	padding-bottom:2px;
+}
+
+nav ul li{
+	display: inline;
+	padding-right: 30px;
+}
+nav ul li a{
+	text-decoration: none;
+	color: white;
+	font-size: 1em;
+	font-weight: 300;
+}
+
+#floatbanner{
+
+background-color: white;
+position: relative;
+width: 78vw;
+height: 11vh;
+/*padding-right                                                                                                                     : 15vw;
+padding-left: 15vw;*/
+}
+ .left-column{
+width: 37vw;
+height: 1200px;
+color: white;
+ }
+
+#left-column-01{
+width: 37vw;
+height: auto;
+background-color: black;	
+z-index: 1;
+}
+
+#left-column-01-img{
+background-color: black;
+position: relative;
+width: 37vw;
+height: auto;
+}
+
+#left-column-01-p{
+  z-index:10;
+}
+
+#left-column-02{
+width: 37vw;
+height: auto;
+background-color: black;	
+z-index: 1;
+}
+
+#left-column-02-img{
+background-color: black;
+position: relative;
+width: 37vw;
+height: auto;
+}
+
+#left-column-02-p{
+  z-index:10;
+}
+
+#right-column-01{
+
+}
+
+
+#right-column-02{
+
+
+#left-column-01v
+}
+#
+
+
+
+
